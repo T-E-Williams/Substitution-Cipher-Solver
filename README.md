@@ -1,2 +1,2 @@
 # Substitution-Cipher-Solver
-A program to use frequency analysis to decrypt a substitution cipher
+A program to utilise frequency analysis to decrypt a substitution cipher
